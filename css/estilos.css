@@ -1,0 +1,11 @@
+body{
+	background:#2980B9 ;
+	margin: 0;
+}
+
+header, footer{
+	background: linear-gradient(to top,#922B21,#B7950B);
+	padding: 0.5em;
+
+
+}
